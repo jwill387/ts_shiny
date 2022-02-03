@@ -6,11 +6,11 @@ Data originally from [this Kaggle dataset](https://www.kaggle.com/pearlveera/wee
 
 * Get the project on your git profile/machine
 * Shiny stuff
-  * Add a drop down list for users to select which store
-  * Add a drop down list for users to select which product
-  * Create a plot of the selected time series
-  * Add a date range selection to filter time series
-  * Do something fancy
+  * [x] Add a drop down list for users to select which store
+  * [x] Add a drop down list for users to select which product
+  * [x] Create a plot of the selected time series
+  * [] Add a date range selection to filter time series
+  * [] Do something fancy
     * See: http://shinyapps.dreamrs.fr/shinyWidgets/
     * See: `plotly` package
     * Look into other options besides our plain `fluidPage` for the UI
